@@ -1,7 +1,7 @@
 # Programming_Challenges
 Solving challenges from various online communities
 
-001 Weekly Challeng Facebook
+001 Weekly Challenge Facebook
 
 Pretend the following problem was given to you as a take home assessment. 
 Complete it and comment with a link to the submission and I'll review it!
