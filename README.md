@@ -32,3 +32,12 @@ Implement FizzBuzz:
 If a number is a multiple of 3 print Fizz. <br />
 If a number is a multiple of 5 print Buzz. <br />
 If a number is a multiple of both 3 and 5 print FizzBuzz.
+
+# 003 Weekly Challenge Facebook
+
+Write a function that checks if an integer is a palindrome. <br />
+
+A palindrome read the same forwards as backwards. <br />
+11 is a palindrome <br />
+123 is not a palindrome <br />
+negative numbers are not palindromes <br />
